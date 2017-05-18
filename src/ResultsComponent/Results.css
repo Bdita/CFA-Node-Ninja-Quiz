@@ -1,0 +1,3 @@
+.retryButton:focus {
+  outline: none !important;
+}
