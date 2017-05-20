@@ -4,6 +4,8 @@
 
   ![logo](http://res.cloudinary.com/dihqhbf9i/image/upload/c_thumb,w_337/v1495064879/Blackbird_rvfnin.png)
 
+### Table of Contents
+
 ### Design Process
 * Ideation and Wireframes:
 
@@ -20,6 +22,7 @@
   Create React App is an easy way to start building react application. It sets up the development environment quickly and installing or configuring tools like Webpack or Babel is not required. They are preconfigured and hidden so the sole focus is on the code.
 
   2. Building and styling components(App component, Question component, MultiChoice Component, ResultsComponent and ProgressBar Component):
+
   Each components and their respective css styling files are organised in one folder. The application is designed to be responsive in different screen sizes using react-bootstrap components.
 
     ![wireframe](http://res.cloudinary.com/dihqhbf9i/image/upload/c_thumb,w_430/v1495243443/Screen_Shot_2017-05-20_at_11.22.21_am_qxvrm5.png)
@@ -72,6 +75,6 @@
   $ npm test or yarn test  //to run the test watcher in an interactive mode.
   ```
 
-#### Future of the project:
+### Future of the project:
   - Gamification with different levels and rewards
   - Backend for creating and storing questions and answers
