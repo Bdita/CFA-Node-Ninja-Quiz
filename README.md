@@ -1,9 +1,10 @@
-### Node Ninja Quiz
-#### About Project
+## Node Ninja Quiz
+### About Project
   A simple quiz app bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-  ![logo](http://res.cloudinary.com/dihqhbf9i/image/upload/v1495064879/Blackbird_rvfnin.png =100*50)
 
-#### Design Process
+  ![logo](http://res.cloudinary.com/dihqhbf9i/image/upload/c_thumb,w_337/v1495064879/Blackbird_rvfnin.png)
+
+### Design Process
 * Ideation and Wireframes:
 
   ![wireframe](http://res.cloudinary.com/dihqhbf9i/image/upload/v1495249141/node_ninja_quiz_c37rry.png)
@@ -21,7 +22,7 @@
   2. Building and styling components(App component, Question component, MultiChoice Component, ResultsComponent and ProgressBar Component):
   Each components and their respective css styling files are organised in one folder. The application is designed to be responsive in different screen sizes using react-bootstrap components.
 
-    ![wireframe](http://res.cloudinary.com/dihqhbf9i/image/upload/v1495243443/Screen_Shot_2017-05-20_at_11.22.21_am_qxvrm5.png = 350*450)
+    ![wireframe](http://res.cloudinary.com/dihqhbf9i/image/upload/c_thumb,w_430/v1495243443/Screen_Shot_2017-05-20_at_11.22.21_am_qxvrm5.png)
 
   3. Testing:
   Create-react-app now ships with jest by default as its testing harness/framework!
@@ -45,7 +46,7 @@
   4. Deployment:
     To be deployed...
 
-#### Installation Instruction (To run the app locally)
+### Installation Instruction (To run the app locally)
 #### Dependencies:
   react 15.5.4: React is a UI library used for the creation of interactive, stateful & reusable UI components. It uses a concept called virtual DOM. Virtual DOM allow us to improve front end performance by avoiding direct work with DOM.
 
