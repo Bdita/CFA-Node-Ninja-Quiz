@@ -13,14 +13,13 @@ class ProgressBar extends Component {
   }
 }
 
+{/* Alternative way of writing stateless components that doesn't have any state or logic}
 {/*
 const ProgressBar = (props) => {
   return <p>{props.current_step}/{props.question_length}</p>
 } */}
 
-{/* stateless- component that doesn't have any state or logic refactoring */}
 {/*const ProgressBar = ({current_step, question_length}) => {
-
   return <p>{current_step}/{question_length}</p>
 } */}
 
